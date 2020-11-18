@@ -1,0 +1,13 @@
+
+
+a:link{color:#a200ff;}
+
+a:hover{color:#ffee00;}
+
+a:visited{color: dimgrey;}
+
+a:active{color: deeppink;}
+
+a:active{background-color: orange;}
+
+.btn-primary{font-weight: bold;}
